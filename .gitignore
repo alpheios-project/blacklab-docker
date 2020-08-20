@@ -1,2 +1,5 @@
 META-INF
 WEB-INF
+test.html
+corpora/lemmatized
+*.log
