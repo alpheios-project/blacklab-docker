@@ -17,8 +17,6 @@ annotatedFields:
     # What are our word tags? (relative to containerPath)
     wordPath: .//w
 
-    tokenPositionIdPath: "@xml:id"
-
     # What annotation can each word have? How do we index them?
     # (annotations are also called "(word) properties" in BlackLab)
     # (valuePaths relative to wordPath)
@@ -47,12 +45,12 @@ annotatedFields:
       valuePath: "@n"
 
     - name: in
-      valuePath: "@textpart"
+      valuePath: "@rend"
 
     # What tags occurring between the word tags do we wish to index? (relative to containerPath) 
     inlineTags:
       # Sentence tags
-      - path: .//seg
+      - path: .//ab
 
 # Embedded metadata in document
 metadata:
@@ -65,7 +63,7 @@ metadata:
 
     # <metadata/> tag has an id attribute we want to index as docId
   - name: docId
-    valuePath: "@xml:id"
+    valuePath: "@n"
     type: untokenized
 
   #  # Each <meta/> tag corresponds with a metadata field
