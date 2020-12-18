@@ -76,3 +76,8 @@ metadata:
 
   - name: title
     valuePath: fileDesc/titleStmt/title
+
+corpusConfig:
+  displayName: Latin Lemmatized Texts
+  description: Thibault Clérice. (2020, December 17). lascivaroma/latin-lemmatized-texts 0.0.1 - Première version (Version 0.0.1). Zenodo. http://doi.org/10.5281/zenodo.4337146
+  contentViewable: true
