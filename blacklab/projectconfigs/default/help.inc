@@ -295,7 +295,7 @@
     <tr>
       <td>Title</td>
       <td>The title of a work.</td>
-      <td>Caesar</td>
+      <td>De Bello Civile</td>
     </tr>
     <tr>
     <td>Doc id</td>

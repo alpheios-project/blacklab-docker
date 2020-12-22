@@ -5,7 +5,7 @@
 <h2>About the Corpus</h2>
 
 <dl>
-<dt>Title</dt><dd property="http://purl.org/dc/elements/1.1/title"><a href="https://github.com/lascivaroma/latin-lemmatized-texts" target="_blank">lascivaroma/latin-lemmatized-texts</a>: 0.0.1 - Première version</dd>
+<dt>Title</dt><dd property="http://purl.org/dc/elements/1.1/title"><a href="https://github.com/lascivaroma/latin-lemmatized-texts" target="_blank">Corpus Latin antiquité et antiquité tardive lemmatisé</a>: 0.0.1 - Première version</dd>
 <dt>Creator</dt><dd property="http://purl.org/dc/elements/1.1/creator">Thibault Clérice</dd>
 <dt>Date</dt><dd property="http://purl.org/dc/elements/1.1/date">2020-12-17</dd>
 <dt>Description</dt><dd property="http://purl.org/dc/elements/1.1/description">Tagged corpora with metadata</dd>
@@ -34,5 +34,5 @@
 
 
 <h3>Annotations</h3>
-<p>The corpus has been automatically annotated using models trained on the <a href="http://web.philo.ulg.ac.be/lasla/textes-latins-traites/" target="_blank">LASLA Textes latin traités</a>.  For more information about the models and source data see <a href="https://https://github.com/lascivaroma/latin-lemmatized-texts" target="_blank">https://github.com/lascivaroma/latin-lemmatized-texts</a>.</p>
+<p>The corpus has been automatically annotated using models trained on the <a href="http://web.philo.ulg.ac.be/lasla/textes-latins-traites/" target="_blank">LASLA Textes latin traités</a>.  For more information about the models and source data see <a href="https://github.com/lascivaroma/latin-lemmatized-texts" target="_blank">https://github.com/lascivaroma/latin-lemmatized-texts</a>.</p>
 
