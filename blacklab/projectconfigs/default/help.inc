@@ -1,3 +1,10 @@
+<style type="text/css">
+  td {
+    border: 1px solid black;
+    padding: 5px;
+  }
+</style>
+
 <h2>Corpus Search Tips</h2>
 <p>The details of how to search the data in the <b>Latin Lemmatized Text
   Corpus</b> are provided below.</p>
@@ -37,8 +44,7 @@
     <tr>
       <td>ref</td>
       <td>The passage reference in which a word is found.</td>
-      <td>86
-      <td>
+      <td>86</td>
     </tr>
     <tr>
       <td>in</td>
