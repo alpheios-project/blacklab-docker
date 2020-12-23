@@ -5,6 +5,12 @@
   }
 </style>
 
+<h2>Alpheios Tips</h2>
+<p>Alpheios lookups have been enabled on the text in the Search Hit detail. 
+To lookup word from a search result, click on the hit, then double-click on
+a Latin word in the displayed passage. You can also use the Alpheios toolbar
+to lookup any word.</p>
+
 <h2>Corpus Search Tips</h2>
 <p>The details of how to search the data in the <b>Latin Lemmatized Text
   Corpus</b> are provided below.</p>

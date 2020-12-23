@@ -1,6 +1,11 @@
 <h2>About the Platform</h2>
 
-<p>This is an instance of the <a href="http://inl.github.io/BlackLab/" target="_blank">Blacklab corpus search engine</a> developed by the <a href="https://www.ivdnt.org/" target="_blank">Dutch Language Institute</a>. It is hosted by <a href="https://alpheios.net" target="_blank">The Alpheios Project, Ltd.</a>.</p>
+<p>This is an instance of the <a href="http://inl.github.io/BlackLab/" target="_blank">
+  Blacklab corpus search engine</a> developed by the
+  <a href="https://www.ivdnt.org/" target="_blank">Dutch Language Institute</a>.
+  It is hosted by <a href="https://alpheios.net" target="_blank">
+    The Alpheios Project, Ltd.</a>. 
+  </p>
 
 <h2>About the Corpus</h2>
 

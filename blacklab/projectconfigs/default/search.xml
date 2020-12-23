@@ -4,8 +4,8 @@
         <DisplayName>Latin Texts</DisplayName>
 
         <!-- You can include custom js and css (usually from your corpus interface directory under /${contextPath}/corpusname/static/**), but external sites are supported. -->
-        <!--<CustomJs>${request:corpusPath}/static/your.js</CustomJs>-->
-        <!--<CustomCss>${request:corpusPath}/static/your.css</CustomCss>-->
+        <CustomJs>${request:corpusPath}/static/alpheios.js</CustomJs>
+        <CustomCss>https://cdn.jsdelivr.net/npm/alpheios-components@latest/dist/style/style-components.min.css</CustomCss>-->
         <!-- Should be a directory; see webapp/img/ for a full listing of files -->
         <FaviconDir>${request:contextPath}/img</FaviconDir>
 

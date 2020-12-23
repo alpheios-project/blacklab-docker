@@ -80,4 +80,4 @@ metadata:
 corpusConfig:
   displayName: Latin Lemmatized Texts
   description: Thibault Clérice. (2020, December 17). Corpus Latin antiquité et antiquité tardive lemmatisé 0.0.1 - Première version (Version 0.0.1). Zenodo. http://doi.org/10.5281/zenodo.4337146
-  contentViewable: true
+  contentViewable: false
