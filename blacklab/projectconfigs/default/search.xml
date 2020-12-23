@@ -32,11 +32,9 @@
         </Article>
 
         <!-- Google analytics. Disabled if not provided. -->
-        <!--
         <Analytics>
-            <Key>google analytics key</Key>
+            <Key>256932030</Key>
         </Analytics>
-        -->
 
     </InterfaceProperties>
     <XsltParameters>
